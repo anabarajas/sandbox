@@ -1,0 +1,8 @@
+# Compiled class file
+*.class
+
+# Project configurations folder
+.idea/*
+*iml
+
+.DS_Store
